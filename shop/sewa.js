@@ -1,8 +1,7 @@
 const pc_sewa = () => {
 return `「 *PRICE LIST* 」
 							
-⬣ PRICE SEWABOT
-*╭─ [ 🇸 🇪 🇼 🇦  🇧 🇴 🇹   🇼 🇦  ]*
+⬣ *╭─ [ 🇸 🇪 🇼 🇦  🇧 🇴 🇹   🇼 🇦  ]*
 *│• 1 MINGGU : 3k*
 *│• 1 BULAN : 5K*
 *│• PERMANEN :10K*
@@ -25,11 +24,6 @@ _*📍 MINAT?*_
 _*CHAT :*_ *https://wa.me/6285654811977?text=Bang+mau+sewa+bot+grub+wa*
 
 *SISTEM : TF-MASUKAN BOT-DONE*
-
-*💸PAYMENT*
-_*GOPAY-QRISS ALL PAY*_
-
-```NO REFF!! REFF AUTO BLOK```
 
 NOTE : 
 Bot On 24 Jam Karna Di Run Menggunakan RDP
