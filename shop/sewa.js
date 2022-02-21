@@ -2,40 +2,34 @@ const pc_sewa = () => {
 return `「 *PRICE LIST* 」
 							
 ⬣ PRICE SEWABOT
+*╭─ [ 🇸 🇪 🇼 🇦  🇧 🇴 🇹   🇼 🇦  ]*
+*│• 1 MINGGU : 3k*
+*│• 1 BULAN : 5K*
+*│• PERMANEN :10K*
+*╰────*
+*╭─ [ KELEBIHAN BOT ]*
+*│• FAST RESPON*
+*│• MENU GG*
+*│• ANTILINK, WELCOME ON,*   
+*│•DLL*
+*╰────*
+*╭─[ KEUNTUNGAN ]*
+*│• ANTI LINK ( AUTO KICK )*
+*│• WELCOME OTOMATIS*
+*│• BUAT STIKER*
+*│• PERINTAH ADMIN*
+*│• DLL, FITUR GG🥵*
+*╰────*
 
-⬡ 1 jam test  free 
+_*📍 MINAT?*_
+_*CHAT :*_ *https://wa.me/6285654811977?text=Bang+mau+sewa+bot+grub+wa*
 
+*SISTEM : TF-MASUKAN BOT-DONE*
 
-*•PRICE SEWA BOT BY LANN STORE*
+*💸PAYMENT*
+_*GOPAY-QRISS ALL PAY*_
 
-*FITUR NYA GG PASTINYA ON 24 JAM KECUALI DELAY/PAKET HABIS*
-
-*FITUR :*
-*ANTIVIRTEX ON*
-*WELCOME OTOMATIS*
-*NSFW-HENTAI Dll ON*
-*ADA FITUR DOWNLOAD TT.IG.FB.YT*
-*Dll Fitur-fitur Menariknya*
-
-*HARGA SEWA BOT :*
-*5K 7 Day*
-*~7K 7 Day+Prem*
-*10k 30 Day*
-*~12k 30 Day+Prem*
-*[SPESIAL]15k Manen+Prem*
-
-*wa.me/+6285803583481?text=Assalamu'alaikum+Bang+Mau+Sewa+BOT*
-
-*Gunakan BOT DENGAN BIJAK 👍🏼*
-
-
-
-
-
-
-⬣ MINAT? PM
-⬡ wa.me/6285803583481
-
+```NO REFF!! REFF AUTO BLOK```
 
 NOTE : 
 Bot On 24 Jam Karna Di Run Menggunakan RDP
